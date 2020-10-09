@@ -1,7 +1,3 @@
-# INCREMENTAL PYTHON CODE - REMOVED ID ATTRIBUTE FROM THE __INIT__() & __REPR__() METHODS contd.,
-# OF THE PUBLICATION TABLE TO ENABLE AUTO-POPULATION
-# SECTION 5: LECTURE: 23
-
 from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
